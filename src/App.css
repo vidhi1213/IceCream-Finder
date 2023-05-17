@@ -1,0 +1,10 @@
+table thead th{
+  background-color: rgb(218, 218, 218);
+}
+form{
+  margin: 20px 0;
+}
+.arrowup
+{
+  width: 10px;
+}
